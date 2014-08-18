@@ -1,0 +1,17 @@
+/home/skuarch/NetBeansProjects/ticket/src/main/java/controllers/application/TestNotification.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/model/database/UserRoleModel.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/controllers/application/Error404.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/endpoints/Notification.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/controllers/application/SendNotification.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/model/beans/User.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/interceptors/Session.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/model/logic/NotificationBroadcast.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/controllers/application/Home.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/controllers/application/Index.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/controllers/application/Login.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/model/util/Constants.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/model/beans/UserRole.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/model/database/UserModel.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/model/database/DataAccessObject.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/model/util/HandlerExceptionUtil.java
+/home/skuarch/NetBeansProjects/ticket/src/main/java/controllers/application/TestNotificationForm.java
